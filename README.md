@@ -10,6 +10,7 @@
 This repository contains the selected tasks for the DevelopersHub Corporation AI/ML Internship. The projects cover Data Visualization, Binary Classification, and Regression.
 
 | Task | Title | Type |
+| :--- | :--- | :--- |
 | **Task 1** | Exploring and Visualizing the Iris Dataset | Data Analysis & Visualization |
 | **Task 3** | Heart Disease Prediction | Binary Classification |
 | **Task 6** | House Price Prediction | Regression |
@@ -22,6 +23,7 @@ This repository contains the selected tasks for the DevelopersHub Corporation AI
 - **Dataset:** 150 samples, 4 features (Sepal/Petal length & width), 3 species.
 - **Key Visualizations:** - **Pair Plots:** To see relationships between all feature pairs.
     - **Box Plots:** To identify the spread and median of each feature per species.
+    - **Violin Plots:** To visualize the density of the data.
 - **Finding:** Petal length and width are the most reliable features for separating the "Setosa" species from others.
 
 ---
